@@ -2405,7 +2405,7 @@
          ]
       },
       {
-         "description": "Win [Open Spotlight]",
+         "description": "Win [Open Spotlight] [Always]",
          "manipulators": [
             {
                "from": {
@@ -2426,7 +2426,7 @@
          ]
       },
       {
-         "description": "L (Win) [Lock Screen]",
+         "description": "L (Win) [Lock Screen] [Always]",
          "manipulators": [
             {
                "from": {
@@ -2454,7 +2454,7 @@
          ]
       },
       {
-         "description": "L (Win) [Sleep]",
+         "description": "L (Win) [Sleep] [Always]",
          "manipulators": [
             {
                "from": {
@@ -2482,7 +2482,7 @@
          ]
       },
       {
-         "description": "L (Alt+Ctrl) [Lock Screen]",
+         "description": "L (Alt+Ctrl) [Lock Screen] [Always]",
          "manipulators": [
             {
                "from": {
@@ -2511,7 +2511,7 @@
          ]
       },
       {
-         "description": "L (Alt+Ctrl) [Sleep]",
+         "description": "L (Alt+Ctrl) [Sleep] [Always]",
          "manipulators": [
             {
                "from": {
@@ -2963,7 +2963,7 @@
          ]
       },
       {
-         "description": "Tab (Alt) [+IDEs and Terminal Emulators]",
+         "description": "Tab (Alt) [+IDEs, Remote Desktops, and Terminal Emulators]",
          "manipulators": [
             {
                "conditions": [
